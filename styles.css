@@ -2,8 +2,18 @@
     text-align: center;
 }
 
+.titulo2{
+    text-align: center;
+    color: white;
+}
+
 .paragrafo {
     text-align: center;
+}
+
+.paragrafo2{
+    text-align: center;
+    color: white;
 }
 
 .img_container {
@@ -12,4 +22,22 @@
 
 .corpo {
     background-color: orange;
+}
+
+.corpo2{
+    background-color: black;
+}
+
+.paragrafoescala {
+    font-size: 200%
+}
+
+.paragrafoescala2{
+    text-align: center;
+    color: white;
+    font-size: 200%;
+}
+
+.segredinho {
+    text-align: left;
 }
